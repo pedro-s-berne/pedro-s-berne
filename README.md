@@ -6,7 +6,7 @@
 - 😄 Pronomes: ele/dele
 - 💻 Gente eu sou novo aqui no GitHub, estou aprendendo ainda a programar
 - 💜 Roxo
-- <a href="(https://github.com/rafaballerini)" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> Eu tenho que agradecer a Rafaella Ballerini que sem ela eu não conseguiria
+- 👩🏻 Eu tenho que agradecer a Rafaella Ballerini (rafaballerini) que sem ela eu não conseguiria
 
   ##
 
