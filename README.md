@@ -1,22 +1,21 @@
-### Hi there 👋
+### Oi eu sou o Pedro Berne 💜
 
 
-- 🌱 Atualmente estou no 7°Ano (2023)
+- 🌱 Atualmente estou no 7°Ano 
 - 🤔 Estou procurando ajuda em como conseguir o número da Luísa Sonza
 - 😄 Pronomes: ele/dele
-
-<div>
-<a href="https://github.com/pedro-s-berne"> <img height="180" src="https://github-readne-stats.vercel.app/api?username-pedro-s-berne&show_icons-true&theme-dracula&include_all_commits-true&count_private-true"/> <img height="180" src="https://github-readme-stats.vercel.app/apl/top-langs/?username=pedro-s-berne&layout-compact&langs_count=16&theme-dracula"/>
-</div>
-  
-<div>
-<a href="https://github.com/rafaballerini"> <img height="180" src="https://github-readne-stats.vercel.app/api?username-rafaballerini&show_icons-true&theme-dracula&include_all_commits-true&count_private-true"/> <img height="180" src="https://github-readme-stats.vercel.app/apl/top-langs/?username=rafaballerini&layout-compact&langs_count=16&theme-dracula"/> </div>
+- 💻 Gente eu sou novo aqui no GitHub, estou aprendendo ainda a programar
+- 💜 Roxo
+- <a href="(https://github.com/rafaballerini)" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> Eu tenho que agradecer a Rafaella Ballerini que sem ela eu não conseguiria
 
   ##
 
-  <div>
- <a href="https://www.youtube.com/channel/UCmJUOWAvBk2eexVICT_L13g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href[="(https://www.instagram.com/pedro.souza.berne/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/pedro_s_berne" target="_blank"><img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge](https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_400x400.jpg)&logo=Twitter&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:souzabernepedro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_red"></a>
+ <div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href="https://br.pinterest.com/PedroBerne11/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
+ 	<a href="(https://twitter.com/pedro_s_berne)" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href = "mailto:souzabernepedro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="(https://account.xbox.com/pt-BR/Profile?xr=mebarnav&csrf=kXCbYxoU1BsSkKavUuMBLTZme_oSu61gSmZpjfQGGPJmW0nBhM3cU0fE5Muqbt1tGl2p8096l4SObBOSFMNidPKFJpw1&wa=wsignin1.0)" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a> 
+     
 </div>
