@@ -1,7 +1,6 @@
 # Oi eu sou o Pedro Berne 💜
 
 
-- 🌱 Atualmente estou no 7°Ano 
 - 🤔 Estou pedindo ajuda em como conseguir o número da Luísa Sonza
 - 😄 Pronomes: ele/dele
 - 💻 Gente eu sou novo aqui no GitHub, estou aprendendo ainda a programar
